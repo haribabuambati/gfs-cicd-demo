@@ -1,0 +1,3 @@
+C:\Users\vk00625332\source\repos\GFS_CICD_Demo\GFS_CICD_Demo\obj\Debug\netcoreapp2.2\GFS_CICD_Demo.csproj.CoreCompileInputs.cache
+C:\Users\vk00625332\source\repos\GFS_CICD_Demo\GFS_CICD_Demo\obj\Debug\netcoreapp2.2\GFS_CICD_Demo.AssemblyInfoInputs.cache
+C:\Users\vk00625332\source\repos\GFS_CICD_Demo\GFS_CICD_Demo\obj\Debug\netcoreapp2.2\GFS_CICD_Demo.AssemblyInfo.cs
